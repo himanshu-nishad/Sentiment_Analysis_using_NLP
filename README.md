@@ -4,10 +4,10 @@
   Use of NLP
 <p>Natural Language Processing (NLP) is used in this project to transform raw textual data into a format that can be effectively used by machine learning algorithms. The steps involved typically include:
 
-Text Cleaning: Removing special characters, stopwords, and punctuation to reduce noise in the data.
-Tokenization: Splitting text into individual words or tokens.
-Vectorization: Converting text into numerical representations using techniques like TF-IDF or word embeddings.
-Modeling: Training machine learning models on the processed data to predict sentiment. </p>
+<br>Text Cleaning: Removing special characters, stopwords, and punctuation to reduce noise in the data.</br>
+<br>Tokenization: Splitting text into individual words or tokens.</br>
+<br>Vectorization: Converting text into numerical representations using techniques like TF-IDF or word embeddings.</br>
+<br>Modeling: Training machine learning models on the processed data to predict sentiment.</br> </p>
 
 <h3>Installation</h3>
 <p>To run this project, you need to have Python installed along with the following libraries: </p>
